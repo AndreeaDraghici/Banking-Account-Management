@@ -7,5 +7,23 @@ The application provides several banking operations, addition, cash withdrawal, 
 
 The application was implemented using OOP principles, we have a menu where we can choose the desired option (add, extract, view, etc.) in the console.
 
+How to run:
+--
+1. This is the menu with the available options:
 
 
+![img_1.png](img_1.png)
+
+----------------------------------------------
+
+![img_2.png](img_2.png)
+
+-----------------------------------------------
+![img_3.png](img_3.png)
+
+-----------------------------------------------
+![img_4.png](img_4.png)
+
+---------------------------------------------
+
+![img_5.png](img_5.png)
