@@ -12,18 +12,18 @@ How to run:
 1. This is the menu with the available options:
 
 
-![img_1.png](img_1.png)
+![img_1.png](out/icons/img_1.png)
 
 ----------------------------------------------
 
-![img_2.png](img_2.png)
+![img_2.png](out/icons/img_2.png)
 
 -----------------------------------------------
-![img_3.png](img_3.png)
+![img_3.png](out/icons/img_3.png)
 
 -----------------------------------------------
-![img_4.png](img_4.png)
+![img_4.png](out/icons/img_4.png)
 
 ---------------------------------------------
 
-![img_5.png](img_5.png)
+![img_5.png](out/icons/img_5.png)
